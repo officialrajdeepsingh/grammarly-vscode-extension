@@ -20,6 +20,5 @@ let my_Name="Hello world"
 const PI = 3.14
 ```
 ```C
-
 var myName="Hello world"
 ```
