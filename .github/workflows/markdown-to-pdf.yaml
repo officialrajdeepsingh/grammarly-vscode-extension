@@ -19,7 +19,7 @@ jobs:
         uses: shrink/actions-document-publish@v1
         id: publish-document
         with:
-          sources: '**/README.md", "**/readme.md","**/CONTRIBUTING.md","chapter/*.md'
+          sources: 'readme.md CONTRIBUTING.md chapter/*.md'
       - if: github.event_name == 'release' && github.event.action == 'published'
         name: Get Release
         id: release
