@@ -6,7 +6,7 @@ on:
     types: [published]
 
 env:
-  GITHUB_TOKEN: ${{ github.token }}
+  GITHUB_TOKEN: ${{ secrets.Book-For-All-language }}
 
 jobs:
   publish-and-release:
