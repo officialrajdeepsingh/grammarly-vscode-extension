@@ -1,4 +1,4 @@
-The contributing to Book for all language. 
+The contributing to Book for all languages. 
  Don't do this
 
 https://www.markdownguide.org/basic-syntax/#code
