@@ -6,4 +6,6 @@ vscode Grammarly project demo, I  config the vscode Grammarly extension. To run 
     "grammarly.files.include": ["**/README.md", "**/readme.md","**/CONTRIBUTING.md","chapter/*.md","mytext.txt"]
 }
 ```
-Add those files in `grammarly.files.include` section that you need to fix spells and grammar with vscode Grammarly extension
+Add those files in `grammarly.files.include` section that you need to fix spells and grammar with vscode Grammarly extension.
+
+[https://medium.com/frontendweb/how-to-use-grammarly-in-vscode-6767c2e06a71](https://medium.com/frontendweb/how-to-use-grammarly-in-vscode-6767c2e06a71)
