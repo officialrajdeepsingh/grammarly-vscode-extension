@@ -1,26 +1,7 @@
-Book For All language help to highlight the different written syntax in javascript, python, rust, and c. 
+vscode Grammarly project config the vscode Grammarly extension. To run config the grammarly extension for your project, you need to add or change the grammarly configuration in the `.vscode/settings.json` file. 
 
-> Book in writting progress 
-
-## Variable
-The variable is a main key point for all languages to master. 
-
-#### JavaScript
-```javascript
-var myName="Hello world"
-let myFullName="Hello world"
-const PI = 3.14
-```
-#### Python
-```python
- myName="Hello world"
-```
-#### Rust
-```Rust
-let my_Name="Hello world"
-const PI = 3.14
-```
-#### C language
-```C
-var myName="Hello world"
+```json
+{
+    "grammarly.files.include": ["**/README.md", "**/readme.md","**/CONTRIBUTING.md","chapter/*.md"]
+}
 ```
