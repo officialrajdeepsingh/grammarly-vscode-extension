@@ -1,4 +1,3 @@
 {
-    "gitdoc.enabled": true,
     "grammarly.files.include": ["**/README.md", "**/readme.md","**/CONTRIBUTING.md","chapter/*.md"]
 }
